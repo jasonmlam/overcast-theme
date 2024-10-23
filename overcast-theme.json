@@ -9,9 +9,9 @@ metatype: json
   "area": "themes",
   "version": "1.0.0",
   "description": "A serene, overcast-inspired light theme with neutral tones for comfortable reading and writing.",
-  "url": "https://raw.githubusercontent.com/yourusername/overcast-theme/main/dist/main.css",
-  "download_url": "https://github.com/yourusername/overcast-theme/archive/v1.0.0.zip",
-  "latest_url": "https://listed.to/p/YOUR_LISTED_ID",
-  "marketing_url": "https://github.com/yourusername/overcast-theme",
+  "url": "https://raw.githubusercontent.com/jasonmlam/overcast-theme/refs/heads/main/main.css",
+  "download_url": "https://github.com/jasonmlam/overcast-theme/archive/refs/tags/v1.0.0.zip",
+  "latest_url": "https://listed.to/p/bHlXNFwljI",
+  "marketing_url": "https://github.com/jasonmlam/overcast-theme",
   "thumbnail_url": "https://raw.githubusercontent.com/yourusername/overcast-theme/main/preview.jpg"
 }

@@ -1,8 +1,8 @@
 :root {
-  --background: #eee;
-  --secondary-background: #ddd;
-  --border-color: #bbb;
-  --current-line: #ccc;
+  --background: #edededbf;
+  --secondary-background: #c8c8c8;
+  --border-color: #959595;
+  --current-line: #737373;
   --foreground: #333;
   --comment: #777;
   --icon: #777;
