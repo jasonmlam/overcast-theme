@@ -1,0 +1,17 @@
+---
+metatype: json
+---
+
+{
+  "identifier": "org.standardnotes.theme.overcast",
+  "name": "Overcast Theme",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "1.0.0",
+  "description": "A serene, overcast-inspired light theme with neutral tones for comfortable reading and writing.",
+  "url": "https://raw.githubusercontent.com/yourusername/overcast-theme/main/dist/main.css",
+  "download_url": "https://github.com/yourusername/overcast-theme/archive/v1.0.0.zip",
+  "latest_url": "https://listed.to/p/YOUR_LISTED_ID",
+  "marketing_url": "https://github.com/yourusername/overcast-theme",
+  "thumbnail_url": "https://raw.githubusercontent.com/yourusername/overcast-theme/main/preview.jpg"
+}

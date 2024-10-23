@@ -9,5 +9,5 @@ Theme for [Standard Notes](https://standardnotes.com/)
 3. Copy and paste an install link from the below.
 
 ```txt
-https://listed.to/p/iZ19sSTBwr
+https://listed.to/p/t53gcS4nTI
 ```
